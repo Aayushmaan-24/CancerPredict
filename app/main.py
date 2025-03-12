@@ -161,7 +161,7 @@ def predictions(data):
 def main():
     st.set_page_config(
         page_title="Breast Cancer Predictor",
-        page_icon="👩🏻‍⚕️",
+        page_icon=":female-doctor:",
         layout="wide",
         initial_sidebar_state="expanded",
     )
